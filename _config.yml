@@ -1,7 +1,7 @@
 
 title: About
-url: 'http://nnuriilengirr.github.io/'
-baseurl: '/about/' #change it according to your repository name
+url: 'https://nnuriilengirr.github.io/'
+baseurl: '/about' #change it according to your repository name
 
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
