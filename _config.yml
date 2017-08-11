@@ -1,7 +1,7 @@
 
-title: My Resume
+title: About
 url: 'http://nnuriilengirr.github.io/about/'
-baseurl: '/online-cv' #change it according to your repository name
+baseurl: '/about/' #change it according to your repository name
 
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
