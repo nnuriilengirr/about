@@ -19,11 +19,11 @@ pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and pro
 
 #sidebar links
 email: cilengirnuri@gmail.com
-website: nnuriilengirr.github.io #do not add http://
-github: nnuriilengirr
+website: nuricilengir.me #do not add http://
+github: nuriilengir
 twitter: '@_cilengirnuri'
 
 
 # Tracker
-analytics: UA-83979019-1
+analytics: UA-104218346-1
 #Update all the sections by editing the files inside _includes folder.
